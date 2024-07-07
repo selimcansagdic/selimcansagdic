@@ -11,9 +11,9 @@
   </a>
 </div>
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋</h2>
 
-<h3 align="left">👨‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me :</h3>
 
 <p align="left">👋 I’m Selim Can Sağdıç<br>🌱 I’m currently learning web and mobile technologies<br>🚀 2024 Goals: More application development and proficiency on technologies</p>
 
